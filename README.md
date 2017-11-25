@@ -30,8 +30,11 @@ If you install Jupyter through anaconda, you will by default get a lot of the sc
 #### 7. Types of data:
 - Qualitative/Categorical
 - Quantitative
-#### 8. Plots for each data type:
+#### 8. Plots & Measures for each data type:
 - Qualitative: bar graph
+- Quantitative measures:
+  1. Mean vs median 
+  2. Quartiles
 - Quantitative: histogram, box plot
 #### 9. Relationship between variables
 - Quantitative vs Quantitative: scatter-plot
